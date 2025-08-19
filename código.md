@@ -1,3 +1,3 @@
-def multiplica (a, b):
+def mulsoma (a, b):
 
     return a + b
